@@ -1,0 +1,19 @@
+{
+  "name": "os-db-backup",
+  "version": "0.0.0",
+  "description": "os-db-backup",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/connyay/os-db-backup.git"
+  },
+  "author": "Connor Hindley <connor@redhat.com> (http://connorhindley.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connyay/os-db-backup/issues"
+  },
+  "homepage": "https://github.com/connyay/os-db-backup",
+  "dependencies": {
+    "knox": "~0.9.1"
+  }
+}
